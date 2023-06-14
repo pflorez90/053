@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "21dca0ce5f758a78",
+        "id": "98411c72b55fe69c",
         "type": "tabs",
         "children": [
           {
-            "id": "63b9fcb7385022ac",
+            "id": "779ff08f316814af",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -120,13 +120,21 @@
               "type": "outline",
               "state": {}
             }
+          },
+          {
+            "id": "540d2ecb94c53dab",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -138,7 +146,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "63b9fcb7385022ac",
+  "active": "540d2ecb94c53dab",
   "lastOpenFiles": [
     "nota de prueba.md"
   ]
