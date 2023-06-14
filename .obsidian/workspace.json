@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "98411c72b55fe69c",
+        "id": "ce8ba1e7ae5e9f3b",
         "type": "tabs",
         "children": [
           {
-            "id": "779ff08f316814af",
+            "id": "b2cf4abbded231b5",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -146,7 +146,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "540d2ecb94c53dab",
+  "active": "b2cf4abbded231b5",
   "lastOpenFiles": [
     "nota de prueba.md"
   ]
