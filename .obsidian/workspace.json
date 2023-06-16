@@ -1,18 +1,22 @@
 {
   "main": {
-    "id": "2b4d17ec03d42953",
+    "id": "035c5c8fa5974f16",
     "type": "split",
     "children": [
       {
-        "id": "3a3528baa54cf786",
+        "id": "86a7009ff9ed0cd5",
         "type": "tabs",
         "children": [
           {
-            "id": "a2b85d90345ff6e8",
+            "id": "62c2abe8946e6c75",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "C3.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -21,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "e3345bd862381fed",
+    "id": "5c242443ff33d508",
     "type": "split",
     "children": [
       {
-        "id": "3242091cf6f84180",
+        "id": "9816396c474d3b32",
         "type": "tabs",
         "children": [
           {
-            "id": "74ab4e51d83e6bf1",
+            "id": "c2575af805acae3f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,13 +43,13 @@
             }
           },
           {
-            "id": "f97d252375e16c1c",
+            "id": "39b4bc5fa3d811d0",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -54,7 +58,7 @@
             }
           },
           {
-            "id": "e0bf3a739ad74f4d",
+            "id": "0d7da8774ad2c30f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -65,45 +69,35 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 317.5
   },
   "right": {
-    "id": "e6c0da1209f09457",
+    "id": "dc6439a6d083cce8",
     "type": "split",
     "children": [
       {
-        "id": "9352dcfa0dc034b2",
+        "id": "e6f94aeb608505d7",
         "type": "tabs",
         "children": [
           {
-            "id": "3e4440d2f89b118d",
+            "id": "ce18ddf7c6b984cc",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": false,
+                "file": "C3.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
           {
-            "id": "7327355f163a8347",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "f62caab4d2a8488a",
+            "id": "10b82edce30c87f6",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,18 +108,40 @@
             }
           },
           {
-            "id": "4f2436ffad68cdb3",
+            "id": "8570b4bb00f426e1",
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "C3.md"
+              }
+            }
+          },
+          {
+            "id": "fdf72a3ea78e070a",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
               "state": {}
             }
           },
           {
-            "id": "540d2ecb94c53dab",
+            "id": "5884c15305be25d4",
             "type": "leaf",
             "state": {
-              "type": "git-view",
+              "type": "outgoing-link",
+              "state": {
+                "file": "C3.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2651245f82b17880",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
               "state": {}
             }
           }
@@ -142,16 +158,38 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "a2b85d90345ff6e8",
+  "active": "62c2abe8946e6c75",
   "lastOpenFiles": [
-    "C3.md",
     "C2.md",
     "C1.md",
-    "nota de prueba.md"
+    "C3.md",
+    "To-do.md",
+    "README.md",
+    "Movimiento Hexcrawl.md",
+    "Listado de Tesoros.md",
+    "Listado de hechizos completa.md",
+    "Listado de Bestiario.md",
+    "Índice SRD style.md",
+    "Bestiario/Murciélago vampiro gigante.md",
+    "Bestiario/Murciélago gigante.md",
+    "Bestiario/Murciélago.md",
+    "Bestiario/Lodo verde.md",
+    "Bestiario/Elemental de fuego.md",
+    "Bestiario/Djinni (menor).md",
+    "Bestiario/Animal de manada pequeño.md",
+    "Bestiario/Acólito.md",
+    "Bestiario/Acechador invisible.md",
+    "Bestiario/Abeja asesina.md",
+    "SRD/Razas.md",
+    "SRD/Clases.md",
+    "Untitled.md",
+    "Clases/Druida.md",
+    "Clases/Clérigo.md",
+    "SRD/Armas y armaduras.md"
   ]
 }

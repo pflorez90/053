@@ -1,3 +1,12 @@
 {
-  "accentColor": ""
+  "accentColor": "",
+  "theme": "system",
+  "textFontFamily": "Futura Std,Alegreya",
+  "cssTheme": "Minimal",
+  "translucency": false,
+  "baseFontSize": 18,
+  "enabledCssSnippets": [
+    "OSE-layout",
+    "obsidian"
+  ]
 }
