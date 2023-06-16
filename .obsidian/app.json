@@ -8,7 +8,7 @@
     "margin": "0",
     "downscalePercent": 100
   },
-  "defaultViewMode": "preview",
+  "defaultViewMode": "source",
   "showInlineTitle": false,
   "spellcheckLanguages": [
     "es-AR"
