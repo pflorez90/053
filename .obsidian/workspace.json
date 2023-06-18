@@ -4,18 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "08eafb93056a23ff",
+        "id": "b77fcdee051e873d",
         "type": "tabs",
         "children": [
           {
-            "id": "88c4a278713e4947",
+            "id": "2c44e117ac3eef69",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Contenido/Habilidades.md",
+                "mode": "source",
+                "source": true
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "c03537c28b788c5b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Antecedentes/Artesano.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,7 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 390.5
   },
   "right": {
     "id": "dc6439a6d083cce8",
@@ -81,6 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Antecedentes/Artesano.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +127,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Antecedentes/Artesano.md"
+              }
             }
           },
           {
@@ -124,6 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Antecedentes/Artesano.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,11 +179,16 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "88c4a278713e4947",
+  "active": "c03537c28b788c5b",
   "lastOpenFiles": [
-    "C1.md",
-    "C2.md",
-    "C3.md",
+    "Contenido/Habilidades.md",
+    "Antecedentes/Artesano.md",
+    "Contenido/Antecedentes.md",
+    "Antecedentes",
+    "Contenido/Atributos.md",
+    "Contenido/Creación de personajes.md",
+    "Contenido/Cuentos de la tierra posterior.md",
+    "Contenido",
     "To-do.md",
     "README.md",
     "Movimiento Hexcrawl.md",
@@ -180,9 +208,6 @@
     "Bestiario/Abeja asesina.md",
     "SRD/Razas.md",
     "SRD/Clases.md",
-    "Untitled.md",
-    "Clases/Druida.md",
-    "Clases/Clérigo.md",
-    "SRD/Armas y armaduras.md"
+    "Clases/Druida.md"
   ]
 }
