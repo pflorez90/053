@@ -26,7 +26,6 @@ Y no menos importante, tu héroe debe ser capaz de cooperar con el resto del gru
 
 Dicho esto, es hora de comenzar a crear tu personaje.
 
->[!info]
 ># Legados
 >Las reglas en esta sección describen la creación de héroes normales para los PJ. Pueden ser espadachines talentosos, jóvenes magos capaces o hábiles ladrones y exploradores, pero en esencia son seres humanos normales. Les falta el vínculo con el Legado que les otorga los poderes sobrehumanos de un Legado.
 >
