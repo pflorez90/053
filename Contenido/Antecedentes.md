@@ -30,3 +30,25 @@ Ningún héroe novato puede tener una habilidad por encima del nivel 1. Solo los
 
 Si tiras aleatoriamente en la tabla de Crecimiento y obtienes un bono de atributo, puedes usarlo para aumentar un atributo y potencialmente mejorar su modificador. Los bonos a los atributos físicos se pueden aplicar a Fuerza, Destreza o Constitución, y los bonos a los atributos mentales se pueden agregar a Inteligencia, Sabiduría o Carisma. Ningún atributo puede elevarse por encima de 18, pero un bono de +2 se puede dividir entre dos atributos diferentes.
 
+| **d20** | **Trasfondo**                            |
+|:-------:|-----------------------------------------|
+|    1    | **Artesano**, herrero, curtidor, carpintero |
+|    2    | **Bárbaro**, ermitaño salvaje, hombre salvaje |
+|    3    | **Carretero**, transportando bienes o correo |
+|    4    | **Cortesana**, prostituta, compañera astuta |
+|    5    | **Criminal**, ladrón, estafador, ladrón     |
+|    6    | **Cazador**, trampero, ermitaño solitario o recluso |
+|    7    | **Obrero**, trabajador urbano calificado o no calificado |
+|    8    | **Comerciante**, comerciante, vendedor ambulante o tendero |
+|    9    | **Noble**, hijo pródigo, exiliado, oveja negra |
+|   10    | **Nómada**, saqueador, vagabundo tribal     |
+|   11    | **Campesino**, agricultor, trabajador rural, siervo |
+|   12    | **Artista**, bardo, bailarín, cantante       |
+|   13    | **Médico**, sanador del pueblo, monje sanador |
+|   14    | **Sacerdote**, monje, monja, ermitaño sagrado |
+|   15    | **Marinero**, barquero, pescador, pirata     |
+|   16    | **Erudito**, sabio, aprendiz de mago         |
+|   17    | **Esclavo**, trabajador contratado, aprendiz fugitivo |
+|   18    | **Soldado**, bandido, mercenario, guardia    |
+|   19    | **Matón**, rufián, miembro de pandilla, bravucón del pueblo |
+|   20    | **Errante**, exiliado, explorador, viajero   |
